@@ -1,23 +1,27 @@
-## MOSS 知识库已接入 Git
+## MOSS 知识库 Git 接入 - 完成
 
-### 仓库
+### ✅ 最终状态
 
-https://github.com/negativisum/MOSS-intel
+- **仓库**: https://github.com/negativisum/MOSS-intel
+- **分支**: `main`
+- **最新 commit**: `22e8c4b` — "Update sync.sh: add file list"
+- **状态**: 本地与远程完全同步，干净工作区
+- **push 时间**: 2026-05-12 20:12 UTC（即北京时间 5/13 04:12）
 
-### 已同步内容
+### 同步内容
 
-| 类型 | 文件数 |
+| 目录 | 文件数 |
 |------|--------|
-| 核心配置 | 7 个 .md |
-| 分析报告 | 30 篇 |
-| 军事情报 | 27 篇 |
-| 政治情报 | 20 篇 |
-| 经济金融 | 19 篇 |
-| 每日简报 | 14 篇（截至 5/13） |
-| **合计** | **100+ .md 文件** |
+| 核心配置 (.md) | 9 |
+| knowledge/analysis/ | 30 分析报告 |
+| knowledge/military/ | 30 军事文档 |
+| knowledge/politics/ | 21 政治文档 |
+| knowledge/economy/ | 19 经济文档 |
+| memory/ | 14 每日简报 |
+| **总计 .md** | **123 文件** |
 
 ### 自动同步
 
-- **脚本**: `sync.sh`
-- **Cron**: 每天 23:00 自动提交+推送
-- **推送状态**: ✅ 已完成 5 次成功推送
+- `sync.sh` 每天 23:00 cron
+- 日志: `/tmp/moss-git-sync.log`
+- 仓库: `negativisum/MOSS-intel`（公开）
