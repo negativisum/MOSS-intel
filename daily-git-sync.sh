@@ -3,7 +3,7 @@
 # Run: bash /Users/botbot/botbot/botwork/agents/MOSS/daily-git-sync.sh
 # Cron: 0 23 * * * bash /Users/botbot/botbot/botwork/agents/MOSS/daily-git-sync.sh
 
-set -e爪
+set -e
 cd /Users/botbot/botbot/botwork/agents/MOSS
 
 # Pull latest first
