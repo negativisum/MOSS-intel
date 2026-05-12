@@ -5,9 +5,8 @@
 
 # Skills (managed separately)
 skills/
-*.skilllier
 
-# Temporary/transientty
+# Temporary/transient
 *.tmp
 *.swp
 *~
