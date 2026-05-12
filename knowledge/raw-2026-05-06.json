@@ -1,0 +1,89 @@
+{
+  "date": "2026-05-06",
+  "collection_time_utc": "2026-05-06T12:09:00Z",
+  "searches": {
+    "military_en": {
+      "query": "major military events conflicts war news today",
+      "headlines": [
+        "Trump pauses Project Freedom, citing progress in Iran talks",
+        "Russia defies Ukraine's unilateral ceasefire - launches 108 drones, kills 27 civilians",
+        "Hegseth: 'Ceasefire is not over' after Monday's crossfire with Iran",
+        "Rubio: 'Offensive stage of the war is over' — Operation Epic Fury concluded",
+        "Cargo vessel struck by unknown projectile in Strait of Hormuz",
+        "Two IDF soldiers wounded by Hezbollah explosive drones in southern Lebanon",
+        "UAE air defenses actively intercepting Iranian missiles and drones",
+        "US military security teams on board commercial ships in Strait of Hormuz"
+      ]
+    },
+    "military_cn": {
+      "query": "军事 冲突 演习 最新消息",
+      "headlines": [
+        "俄罗斯拒绝乌克兰单方面停火，发射108架无人机+导弹",
+        "乌克兰无人机袭击克里米亚Dzhankoi市，5人死亡",
+        "美国在太平洋击沉涉嫌贩毒船只，3人死亡",
+        "乌克兰F-16飞行员在英国接受无GPS飞行训练应对俄电子战",
+        "UAE继续拦截伊朗导弹无人机，3名印度公民在富查伊拉袭击中受伤",
+        "以色列摧毁真主党900+基础设施，累计打死200+武装人员",
+        "法国航运巨头CMA CGM确认货船在霍尔木兹海峡遇袭"
+      ]
+    },
+    "politics_en": {
+      "query": "major political diplomatic events news today",
+      "headlines": [
+        "Trump pauses Project Freedom — hails 'great progress' in Iran talks",
+        "US and Iran close to signing one-page MOU to end war — Axios/Pakistani official",
+        "Iran FM Araghchi meets Wang Yi in Beijing — China calls for 'comprehensive ceasefire'",
+        "Iran FM also calls Saudi FM — significant Gulf diplomatic outreach",
+        "Trump: 'If Iran agrees, ceasefire will take effect and Hormuz will be open to all'",
+        "Trump warns: 'If they don't agree, the bombing starts at much higher level'",
+        "Egypt and France working on joint initiative to relieve pressure on Lebanon president",
+        "Board of Peace meets as Gaza decays — Politico"
+      ]
+    },
+    "politics_cn": {
+      "query": "国际政治 外交 要闻",
+      "headlines": [
+        "伊朗外长阿拉格齐在北京会见王毅——中国呼吁'全面停火'",
+        "王毅：对持续两个多月的战争'深感痛心'",
+        "美伊接近签署一页备忘录结束战争——巴基斯坦官员确认",
+        "特朗普暂停'自由行动'——美伊协议希望上升",
+        "贝森特敦促中国施压伊朗开放海峡——特习会前夕",
+        "美方预计伊朗在48小时内回应关键条款",
+        "协议内容：伊朗暂停核浓缩+美国解除制裁释放冻结资金+双方开放海峡"
+      ]
+    },
+    "economy_en": {
+      "query": "major economic events trade markets today",
+      "headlines": [
+        "Oil prices drop sharply as Trump works towards deal with Iran",
+        "S&P 500 and Nasdaq hit fresh record highs as tech leads AI trade",
+        "Wall Street rallies to records after oil prices ease",
+        "US trade deficit widens to $60.3 billion in March on AI-related imports",
+        "Petroleum exports hit all-time high amid Middle East disruptions",
+        "Dollar eases as US-Iran deal hopes grow, yen continues to drift",
+        "Gold stabilizes as oil eases — equities at records after mixed US data",
+        "WSJ: Will the Iran Crisis Cause a Global Recession?"
+      ]
+    },
+    "economy_cn": {
+      "query": "全球经济 贸易 金融 要闻",
+      "headlines": [
+        "美股三大指数创历史新高——标普500、纳指受科技/AI股推动",
+        "油价大幅回落——美伊协议希望上升",
+        "美联储关注就业市场——降息窗口收窄",
+        "美国3月贸易逆差扩大至603亿美元——AI投资推高进口",
+        "澳大利亚央行加息至4.35%——中东冲突推高燃料和商品价格",
+        "美债收益率随油价回落",
+        "企业盈利继续超预期支撑股市"
+      ]
+    }
+  },
+  "key_sources": [
+    {"url": "https://www.haaretz.com/israel-news/israel-security/2026-05-06/ty-article-live/trump-pauses-effort-to-escort-ships-in-strait-of-hormuz-citing-talks-progress/0000019d-faf0-d22e-a9ff-fafe353c0000", "source": "Haaretz/Axios", "credibility": "high"},
+    {"url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3", "source": "AP News", "credibility": "high"},
+    {"url": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran", "source": "The Guardian", "credibility": "high"},
+    {"url": "https://apnews.com/article/russia-ukraine-war-ceasefire-drones-missiles-crimea-484f28530eb0c2ce64fff9be5eb7c9d3", "source": "AP News", "credibility": "high"},
+    {"url": "https://www.cnbc.com/2026/05/06/cnbc-daily-open-project-freedom-tech-earnings-trump-iran-war.html", "source": "CNBC", "credibility": "high"},
+    {"url": "https://www.forbes.com/sites/siladityaray/2026/05/06/iran-and-chinas-foreign-ministers-meet-in-beijing-as-trump-pauses-project-freedom/", "source": "Forbes", "credibility": "high"}
+  ]
+}

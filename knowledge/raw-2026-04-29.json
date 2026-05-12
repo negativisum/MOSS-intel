@@ -1,0 +1,271 @@
+{
+  "date": "2026-04-29",
+  "collection_time": "2026-04-29T20:15:00+08:00",
+  "source": "Tavily API",
+  "domains": {
+    "military": {
+      "en": [
+        {
+          "title": "Russia to hold Victory Day parade without military equipment for 1st time in nearly two decades",
+          "source": "AP (Associated Press)",
+          "url": "https://www.ksat.com/news/2026/04/29/russia-to-hold-victory-day-parade-without-military-equipment-for-1st-time-since-invading-ukraine/",
+          "credibility": "high",
+          "summary": "Russia's May 9 Victory Day parade will feature no tanks, missiles or other military equipment for the first time in nearly two decades. Kremlin spokesman Peskov cited Ukrainian 'terrorist threat' (drone attacks) as the reason."
+        },
+        {
+          "title": "Iran war Day 61: Strait of Hormuz in limbo, Trump mulls Iranian offer",
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
+          "credibility": "high",
+          "summary": "Iran war at Day 61. Ceasefire from April 8 extended but negotiations stalled. US Marines boarded commercial vessel in Arabian Sea suspected of heading to Iran. Brent crude topped $112. WFP warns 45 million more people may face acute food insecurity."
+        },
+        {
+          "title": "Mali military leader emerges after alleged coup attempt",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/malis-military-leader-emerges-after-alleged-coup-attempt",
+          "credibility": "medium",
+          "summary": "Mali's military leader says situation 'under control' after alleged coup attempt. Defense minister killed on Saturday."
+        },
+        {
+          "title": "US govt leak: Trump scared of resuming Iran war, tells aides to keep blockade but avoid large-scale bombing",
+          "source": "Hindustan Times",
+          "url": "https://www.hindustantimes.com/videos/world-news/us-govt-leak-trump-scared-of-resuming-iran-war-tells-aides-this-amid-us-militarys-hormuz-failure-101777451027296.html",
+          "credibility": "low (unverified leak)",
+          "summary": "Leaked accounts say Trump told aides to keep Strait of Hormuz blockade in place but avoid restarting large-scale bombing of Iran."
+        },
+        {
+          "title": "UN aid chief: Somalia situation worsened by US war on Iran",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/4/29/un-aid-chief-says-situation-in-somalia-worsened-by-us-war-on-iran",
+          "credibility": "high",
+          "summary": "UN relief coordinator Tom Fletcher says resources diverted away from aid due to Iran war have exacerbated food shortages in Somalia."
+        }
+      ],
+      "zh": [
+        {
+          "title": "东风导弹即将发射？七国反华军演刚开始，美媒：出动超级航母杀手",
+          "source": "网易/163.com",
+          "url": "https://www.163.com/dy/article/KRL69F070556BRWA.html",
+          "credibility": "medium",
+          "summary": "美菲等七国'肩并肩'军演（4月20日起，19天，1.7万人）期间，外媒分析解放军火箭军可能在4月27日试射DF-21D反舰弹道导弹。日本首次以正式成员身份参加，派出1400名自卫队员及准航母'伊势'号。"
+        },
+        {
+          "title": "解放军南部战区再赴南海巡航 与美菲军演互别苗头",
+          "source": "经济日报/udn.com",
+          "url": "https://money.udn.com/money/story/5603/9470183",
+          "credibility": "high",
+          "summary": "南部战区海军4月28日在南海海域例行巡航。此前4月24日以055型驱逐舰为首的107编队赴菲律宾吕宋岛以东海域演训，进行实弹射击等课目。"
+        },
+        {
+          "title": "阿根廷与美国举行海军联合军事演习",
+          "source": "财联社/cls.cn",
+          "url": "https://www.cls.cn/detail/2359206",
+          "credibility": "high",
+          "summary": "阿根廷海军与美国海军在南大西洋联合军演，USS Nimitz航母和USS Gridley驱逐舰参加。米莱总统或将登舰。"
+        },
+        {
+          "title": "航行警告！渤海部分海域进行军事演习",
+          "source": "新浪财经/央视军事",
+          "url": "https://finance.sina.com.cn/roll/2026-04-28/doc-inhwapms8370513.shtml",
+          "credibility": "high",
+          "summary": "葫芦岛海事局发布航行警告，4月29日4时至7时30分渤海部分海域进行军事演习。"
+        },
+        {
+          "title": "法国外长在联合国表示伊朗必须做出'重大让步'才能结束战争",
+          "source": "RFI (法国国际广播电台)",
+          "url": "https://www.rfi.fr/cn/国际/20260428-法国外长在联合国表示伊朗必须做出-重大让步-才能结束战争",
+          "credibility": "high",
+          "summary": "法国外长巴罗在联合国海上安全辩论会上称伊朗必须在和平谈判中做出重大让步。海湾合作委员会周二在吉达召开特别峰会。"
+        }
+      ]
+    },
+    "politics": {
+      "en": [
+        {
+          "title": "Wang Yi meets UNGA President Annalena Baerbock in Beijing",
+          "source": "中国外交部/fmprc.gov.cn",
+          "url": "https://www.fmprc.gov.cn/mfa_eng/wjbzhd/202604/t20260429_11902623.html",
+          "credibility": "high",
+          "summary": "Wang Yi met UNGA 80th Session President Baerbock in Beijing. Reaffirmed Resolution 2758 on Taiwan representation. Baerbock said current UNGA session will continue to abide by Resolution 2758."
+        },
+        {
+          "title": "Iran Update: Iran defends negotiations, cooperates with Russia and China ahead of potential conflict resumption",
+          "source": "ISW (Institute for the Study of War)",
+          "url": "https://understandingwar.org/research/middle-east/iran-update-special-report-april-28-2026/",
+          "credibility": "high",
+          "summary": "Iran FM Araghchi met Putin in St. Petersburg April 27. Iranian defense delegation attended SCO defense ministerial summit in Bishkek April 27-28, meeting Russian, Chinese and Belarusian defense ministers."
+        },
+        {
+          "title": "Trump news: King Charles III White House visit; US-UK tensions",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/apr/27/trump-news-latest-updates-today",
+          "credibility": "high",
+          "summary": "King Charles and Queen Camilla visited White House amid transatlantic strain. Germany's Merz said US is being 'humiliated' by Iran's leadership. Mexico protested unauthorized US presence at anti-narcotics operation."
+        },
+        {
+          "title": "Germany's Merz: US is being 'humiliated' by Iran's leadership",
+          "source": "The Guardian / multiple",
+          "url": "https://www.theguardian.com/us-news/2026/apr/27/trump-news-latest-updates-today",
+          "credibility": "high",
+          "summary": "German Chancellor Friedrich Merz publicly stated the US is being 'humiliated' by Iran's leadership, suggesting Trump administration is being outwitted at the negotiating table."
+        },
+        {
+          "title": "An Iranian diplomatic victory over Trump would be celebrated amid ruins",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/opinion/article/2026/04/29/an-iranian-diplomatic-victory-over-trump-would-be-celebrated-amid-ruins_6752955_23.html",
+          "credibility": "high",
+          "summary": "Analysis: Iran regime has held firm despite decapitation. Trump's 'strategic impatience' has led to dead end. Iran forced cancellation of Trump's Pakistan trip and removal of ceasefire deadline."
+        }
+      ],
+      "zh": [
+        {
+          "title": "2026年4月29日外交部发言人林剑主持例行记者会",
+          "source": "中国外交部/mfa.gov.cn",
+          "url": "https://www.mfa.gov.cn/fyrbt_673021/202604/t20260429_11902540.shtml",
+          "credibility": "high",
+          "summary": "涉及多项议题：对非洲20国零关税（5月1日起）、日本首相高市早苗访越提新版FOIP（中方反对）、日遗化武问题、巴拿马运河港口问题（驳斥美方指控）、芯片设备出口限制（回应华虹事件）、澳大利亚外长黄英贤访华。"
+        },
+        {
+          "title": "德语媒体：中国正在推动'去美国化'进程",
+          "source": "DW (德国之声)",
+          "url": "https://www.dw.com/zh/德语媒体中国正在推动去美国化进程/a-76970670",
+          "credibility": "high",
+          "summary": "《法兰克福汇报》分析：中国在伊朗战争中避免直接选边站，积极塑造'负责任大国'形象，推动'去美国化'国际秩序。中国直接军事干预可能性微乎其微。"
+        },
+        {
+          "title": "知情人士：特朗普拒绝伊朗和谈方案",
+          "source": "DW (德国之声)",
+          "url": "https://amp.dw.com/zh/知情人士特朗普拒绝伊朗和谈方案/a-76970667",
+          "credibility": "medium (unnamed sources)",
+          "summary": "特朗普拒绝伊朗新方案——因伊朗要求先停战解决海峡问题再谈核计划，美方要求核问题优先。卢比奥称新提议'比预期好但仍存疑'。巴基斯坦谈判远程进行，无面对面计划。"
+        },
+        {
+          "title": "英王查尔斯三世访美：向美国国会发表历史性演说的五大要点",
+          "source": "BBC中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c93x525wkppo/simp",
+          "credibility": "high",
+          "summary": "英王访美核心议题：向北约与跨大西洋同盟致意、强调美英安全与情报合作、提及气候变化、未提及爱泼斯坦案受害者。"
+        }
+      ]
+    },
+    "economy": {
+      "en": [
+        {
+          "title": "Stock market today: Asia-Pacific mostly lower; US stocks fell on OpenAI concerns",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/04/28/stock-market-today-live-updates.html",
+          "credibility": "high",
+          "summary": "US stocks fell: Dow -0.06%, Nasdaq -0.9%, S&P 500 -0.49%. OpenAI revenue growth below targets caused tech selloff. Fed decision today (Powell's last meeting). BOJ held rates at 0.75%, hiked inflation forecasts."
+        },
+        {
+          "title": "Market Quick Take - 29 April 2026",
+          "source": "Saxo Bank",
+          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---29-april-2026-29042026",
+          "credibility": "high",
+          "summary": "Key events: Fed rate decision, Canada rate decision, Germany April CPI, US Q1 GDP tomorrow. Mag 7 earnings tonight (MSFT, META, GOOGL, AMZN). Crude rally extends as Strait disruption continues."
+        },
+        {
+          "title": "The Fed decides today. Here's what happens next.",
+          "source": "Kraken Blog",
+          "url": "https://blog.kraken.com/economic-brief/april-29-2026",
+          "credibility": "medium",
+          "summary": "FOMC rate decision today. Four Mag 7 companies report tonight. Q1 GDP, PCE inflation, and Employment Cost Index print simultaneously tomorrow. Powell's last press conference before term ends in May."
+        },
+        {
+          "title": "World Bank Commodity Markets Outlook April 2026",
+          "source": "World Bank",
+          "url": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099842304282633100",
+          "credibility": "high",
+          "summary": "Commodity prices forecast to rise 16% in 2026. Largest oil supply disruption on record in March. Gold $4,700/oz (+37% YoY), Silver $70/oz (+76% YoY)."
+        }
+      ],
+      "zh": [
+        {
+          "title": "世界银行：今年商品价格涨16%，金价明年走低",
+          "source": "MoneyDJ",
+          "url": "https://www.moneydj.com/r/news/rnews_详细",
+          "credibility": "high",
+          "summary": "世界银行4月商品展望：中东战争对商品市场构成历史性冲击，3月出现有记录以来最大石油供应损失。假设最严重阶段5月结束，海峡航运10月前逐步恢复，商品价年涨16%。金价$4700/oz，白银$70/oz。"
+        },
+        {
+          "title": "新浪财经隔夜要闻（2026年4月29日）",
+          "source": "新浪财经",
+          "url": "https://finance.sina.com.cn/headline/2026-04-29/doc-inhwceiq7989479.shtml",
+          "credibility": "high",
+          "summary": "综合：IEA预测全球石油需求峰值已到；摩根大通CEO戴蒙警示全球债务危机；OpenAI业绩未达标；美股收跌；油价WTI $99.93/布伦特$111.26；日本超级油轮成功驶离霍尔木兹海峡（战争以来首次）。欧盟贸易高官因不满美欧贸易协议将离职。"
+        },
+        {
+          "title": "中共中央政治局4月28日召开会议 分析研究当前经济形势",
+          "source": "新华网/最高人民法院转载",
+          "url": "https://www.court.gov.cn/xinshidai/xiangqing/498641.html",
+          "credibility": "high",
+          "summary": "政治局会议：Q1 GDP同比+5.0%'好于预期'。部署：加强水网/新型电网/算力网/通信网/地下管网/物流网建设；整治'内卷式'竞争；全面实施'AI+'行动；稳定房地产和资本市场；保持人民币汇率基本稳定。"
+        },
+        {
+          "title": "人民币崛起撼美元——中东战乱与美国制裁加速全球金融洗牌",
+          "source": "TVB News",
+          "url": "https://news.tvb.com/tc/finance/69ec423306f3757d9b4d2c10/",
+          "credibility": "medium",
+          "summary": "人民币升破6.82，在岸人民币Q1对美元升值约1.3%。CIPS直接参与机构从75家增至近200家。人民币正成为区域锚定货币，美元锚定作用减弱。中国20年平行金融基建布局渐见成效。"
+        },
+        {
+          "title": "高层明确2026年人民币汇率要在合理均衡水平上保持基本稳定",
+          "source": "中国金融网",
+          "url": "http://www.financeun.com/newsDetail/63956.shtml",
+          "credibility": "medium",
+          "summary": "政治局会议定调汇率政策。人民币全球支付占比3.10%（第五大活跃货币）。Q1跨境人民币结算4.52万亿元（+14.1%）。央行连续17个月增持黄金至7438万盎司。"
+        }
+      ]
+    }
+  },
+  "key_signals": [
+    {
+      "signal": "伊朗战争第61天：僵局加深",
+      "type": "military/conflict",
+      "severity": "critical",
+      "detail": "特朗普拒绝伊朗最新提案（先停战再谈核→美方要求核优先）。谈判仅远程进行，无面对面计划。霍尔木兹海峡封锁持续。Brent原油$112。世界银行称3月创有记录以来最大石油供应损失。"
+    },
+    {
+      "signal": "阿联酋退出OPEC（5月1日生效）",
+      "type": "economy/energy",
+      "severity": "high",
+      "detail": "阿联酋能源部长称退出原因包括霍尔木兹海峡通行受限。对石油美元体系构成结构性裂痕的直接信号。"
+    },
+    {
+      "signal": "南海军事对峙升温",
+      "type": "military/deployment",
+      "severity": "high",
+      "detail": "七国'肩并肩'军演（1.7万人） vs 解放军南部战区南海巡航+055编队吕宋岛以东实弹演训。日本首次以正式成员参演，派准航母和反舰导弹。"
+    },
+    {
+      "signal": "中共中央政治局会议定调经济",
+      "type": "politics/domestic_policy",
+      "severity": "high",
+      "detail": "Q1 GDP 5.0%，'AI+'行动，整治内卷，稳房地产和资本市场，保持人民币汇率稳定。对非20国零关税5月1日起。"
+    },
+    {
+      "signal": "美联储利率决议日（鲍威尔最后一次记者会）",
+      "type": "economy/monetary",
+      "severity": "medium",
+      "detail": "FOMC今天决议。Kevin Warsh将接任美联储主席。市场关注通胀表述。当天M7四巨头财报+明天Q1 GDP+PCE+ECI。"
+    },
+    {
+      "signal": "马里发生疑似政变，国防部长被杀",
+      "type": "politics/coup",
+      "severity": "medium",
+      "detail": "马里军政府领导人称局势'受控'，但国防部长在周末袭击中身亡。非洲不稳定加剧。"
+    },
+    {
+      "signal": "日本超级油轮成功驶离霍尔木兹海峡（战争以来首次）",
+      "type": "economy/energy",
+      "severity": "medium",
+      "detail": "Idemitsu Maru号满载200万桶原油经德黑兰批准的北部航线成功通过，目的地名古屋。标志日本航运策略转变。"
+    },
+    {
+      "signal": "俄罗斯胜利日阅兵取消装备展示（近20年来首次）",
+      "type": "military/deployment",
+      "severity": "medium",
+      "detail": "官方理由为乌克兰无人机威胁。反映战争对俄国内的影响加深。"
+    }
+  ]
+}

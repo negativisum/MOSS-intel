@@ -1,0 +1,126 @@
+{
+  "date": "2026-05-11",
+  "collection_time": "2026-05-11T12:00:00Z",
+  "sources": {
+    "metaso_chinese_military": "Global military news CN - 10 results",
+    "metaso_chinese_politics": "Global political news CN - 6 results",
+    "metaso_chinese_economy": "Global economy/markets CN - 23 results",
+    "metaso_chinese_iran_war": "US-Iran war CN - 85 results",
+    "metaso_chinese_china_markets": "China A-shares/HK/CNY CN - 20 results",
+    "tavily_english_military": "Global military EN - 10 results",
+    "tavily_english_iran_war": "US-Iran ceasefire EN - 10 results",
+    "tavily_english_economy": "Global economy/markets EN - 10 results",
+    "tavily_english_russia_ukraine": "Russia-Ukraine EN - 5 results",
+    "tavily_english_china_iran": "China-Iran EN - 5 results",
+    "tavily_english_fed": "Fed rate decision EN - 5 results"
+  },
+  "key_findings": {
+    "military": {
+      "us_iran_war": {
+        "status": "Fragile ceasefire - ongoing tensions",
+        "ceasefire_date": "2026-04-08",
+        "ceasefire_duration": "Extended multiple times, fragile",
+        "hormuz_blockade": "Iran still controlling Strait of Hormuz. ~1,500 ships stranded. Only ~3.24 tankers/day passing vs normal ~17/day.",
+        "us_blockade": "20 US warships enforcing blockade on Iran (as of May 11, 2026). US Central Command turned back 52 vessels since Apr 13.",
+        "latest_clashes": "May 5: Iran launched missiles/drones at UAE. May 8: US struck 2 Iranian tankers near Hormuz.",
+        "us_proposal": "US sent new proposal on May 6 (Wednesday) proposing Iran reopen waterway and US end blockade over 1 month. Awaiting Iran response.",
+        "china_role": "Iran FM Araghchi visited Beijing May 6, met Wang Yi. China called for end to war and Hormuz reopening.",
+        "us_missile_depletion": "US high-end missile stocks down 25-50% after $25bn Epic Fury campaign (per Guardian).",
+        "iran_economy": "Rising inflation, unemployment, unpaid wages inside Iran.",
+        "saudi_arabia": "Saudis not consulted before launch of Operation Epic Fury - objections recorded (per Guardian)."
+      },
+      "russia_ukraine": {
+        "status": "Putin signaling possible end",
+        "victory_day": "May 9: Scaled-down Victory Day parade. Putin expressed confidence in victory in Ukraine.",
+        "ceasefire": "Putin declared 2-day ceasefire May 8-9 for Victory Day anniversary.",
+        "putin_signal": "Putin says war 'coming to an end' (per multiple sources).",
+        "russian_strikes": "Russian strikes killed 27 in Ukraine ahead of rival ceasefires (May 8)."
+      },
+      "israel_lebanon": {
+        "status": "Fragile ceasefire, 3rd round of talks next week in Washington",
+        "casualties": "2,715 killed, 8,353 injured in Lebanon since Mar 2 (Israeli strikes).",
+        "talks": "Israel and Lebanon ambassadors to US to meet May 14-15 in Washington (3rd round).",
+        "hezbollah": "Hezbollah targeted 2 Israeli settlements. Israel strikes in south Lebanon continue despite truce."
+      },
+      "global_military_spending": {
+        "source": "SIPRI, April 27, 2026",
+        "total_2025": "$2,887 billion",
+        "increase": "2.9% real terms over 2024",
+        "trend": "European and Asian expenditures surge"
+      },
+      "carrier_deployments": {
+        "date": "May 11, 2026",
+        "detail": "20 warships enforcing Iran blockade (The War Zone)"
+      }
+    },
+    "politics": {
+      "us_china_relations": {
+        "context": "Trump expected in China next week? (per Al Jazeera - Iran FM visit timing)",
+        "tariff_policy": "Tariff policy easing signals (per CICC report)",
+        "rhetoric": "Rubio in Rome May 8 - said Trump's verbal attacks may continue"
+      },
+      "china_diplomacy": {
+        "xiangshan_forum": "2026 Beijing Xiangshan Forum precursor opened May 8 - theme: Global Security Governance",
+        "wang_yi_araghchi": "May 6 - Wang Yi told Iran FM China 'deeply distressed' over war. Called for comprehensive agreement.",
+        "foreign_minister_presser": "May 7 - FM Lin Jian regular press conference - pushed back on Japan militarism concerns."
+      },
+      "international_organizations": {
+        "un_imo": "UN IMO head: ~1,500 ships stranded in Gulf due to Hormuz closure",
+        "uae_opec": "UAE quitting OPEC (late April 2026 story)"
+      },
+      "nato_us_europe": {
+        "atlantic_alliance": "US-Europe Atlantic alliance creaking - European NATO powers disagreeing with US (Reuters, May 1)"
+      }
+    },
+    "economy": {
+      "us_markets": {
+        "sp500": "7,230.12 (record high close, May 8/9)",
+        "nasdaq": "25,114.44 (all-time high)",
+        "dow": "49,499.27 (down 152.87 pts)",
+        "fed_rate": "3.50%-3.75% - held steady April 29",
+        "fed_dissent": "Highest dissent since 1992 - FOMC divided",
+        "powell": "Said will remain as Fed Governor even after chairmanship ends",
+        "fed_outlook": "Market pricing NO cuts in 2026, well into 2027. Fed dot plot: 1 cut in 2026, another in 2027."
+      },
+      "commodities": {
+        "wti_crude": "~$102/barrel (May 9-10)",
+        "brent_outlook": "Potentially $140-150/barrel if Hormuz conflict escalates",
+        "gold": "$4,720.40/oz (May 10 close) - down from ATH of $5,602 (Jan 29)",
+        "gold_trend": "In corrective phase for 3+ months after Jan ATH",
+        "us_gasoline": "$4.39/gal national average (~50% above pre-conflict)",
+        "oil_stocks": "Goldman: Global oil stocks approaching 8-year low, depletion speed a concern"
+      },
+      "china_markets": {
+        "cny_usd": "RMB strengthening. Broke below 7.0 in late 2025. Trading around 6.9 (Feb). Continued strength in May.",
+        "cny_driver": "USD weakening + tariff easing expectations + reduced USD asset exposure",
+        "ah_stocks": "A-share and HK market data not specifically captured in today's search"
+      },
+      "global_macro": {
+        "goldman_2026_outlook": "Global economy forecast 2.8% growth in 2026 ('sturdy growth')",
+        "inflation": "Elevated - Fed acknowledges. Energy prices pushing up overall inflation.",
+        "trade_disruption": "Hormuz closure: massive trade cost increase (Vatican News, Bloomberg)"
+      },
+      "crypto": {
+        "bitcoin_eth": "Not specifically captured in today's search. Mentioned in market forecast context."
+      }
+    }
+  },
+  "risk_assessment": {
+    "critical": [
+      "US-Iran ceasefire collapse risk - Hormuz standoff unsustainabile for both sides (Guardian)",
+      "Oil price shock propagation - $102 WTI, potential $140-150 if war restarts",
+      "Global trade disruption - 1,500 ships stranded, Hormuz virtually closed since Feb 28"
+    ],
+    "high": [
+      "Fed policy paralysis - highest dissent since 1992, no cuts expected through 2026",
+      "US missile stock depletion - 25-50% down after $25bn campaign",
+      "Iran economic collapse risk - inflation, unemployment, unpaid wages"
+    ],
+    "medium": [
+      "Russia-Ukraine potential endgame dynamics",
+      "Israel-Lebanon ceasefire fragility - 3rd round talks",
+      "US-Europe alliance strain",
+      "RMB strength and capital flow implications"
+    ]
+  }
+}

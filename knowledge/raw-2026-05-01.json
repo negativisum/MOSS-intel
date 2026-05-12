@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-01",
+  "collection_time": "2026-05-01T20:08:00+08:00",
+  "source": "Tavily API",
+  "searches": {
+    "military_en": {
+      "query": "major military events conflicts news today 2026-05-01",
+      "results": [
+        {"title": "Day 62 of Middle East conflict — Senate rejects war powers resolution", "url": "https://edition.cnn.com/2026/04/30/world/live-news/iran-war-news", "source": "CNN", "credibility": "high"},
+        {"title": "Live updates: Gas prices surge as US awaits revised peace proposal from Iran", "url": "https://www.cnn.com/2026/05/01/world/live-news/iran-war-news", "source": "CNN", "credibility": "high"},
+        {"title": "Friday morning news: May 1, 2026", "url": "https://wng.org/podcasts/friday-morning-news-may-1-2026-1777575822", "source": "WORLD Radio", "credibility": "medium"},
+        {"title": "Hegseth faces questions about Iran in first congressional appearance since war began", "url": "https://www.gpb.org/news/2026/05/01/hegseth-faces-questions-about-iran-in-first-congressional-appearance-war-began", "source": "GPB/AP", "credibility": "high"},
+        {"title": "Republicans say they will defer to Trump on Iran war despite arrival of deadline", "url": "https://www.nhpr.org/2026-05-01/republicans-say-they-will-defer-to-trump-on-iran-war-despite-arrival-of-deadline", "source": "NPR", "credibility": "high"},
+        {"title": "Trump administration says its war in Iran has been 'terminated' before 60-day deadline", "url": "https://www.wsls.com/news/politics/2026/05/01/trump-administration-says-its-war-in-iran-has-been-terminated-before-60-day-deadline/", "source": "AP", "credibility": "high"},
+        {"title": "US troop cuts in Italy and Spain probable, Trump says", "url": "https://www.stripes.com/theaters/europe/2026-05-01/trump-italy-spain-military-cuts-21544329.html", "source": "Stars and Stripes", "credibility": "medium"},
+        {"title": "Iran vows 'long, painful' response if US renews attacks", "url": "https://www.aljazeera.com/news/2026/5/1/iran-vows-long-painful-response-if-us-renews-attacks", "source": "Al Jazeera", "credibility": "medium"}
+      ]
+    },
+    "military_cn": {
+      "query": "军事 冲突 演习 最新消息 2026年5月",
+      "results": [
+        {"title": "美日菲军演提前结束，因被中国全面碾压", "url": "https://www.163.com/dy/article/KRR0MUPO05568W0A.html", "source": "网易", "credibility": "low"},
+        {"title": "二战结束后，日本首次向海外派遣成建制作战力量", "url": "https://m.sohu.com/a/1017276249_121478296", "source": "搜狐", "credibility": "medium"},
+        {"title": "实在没法搞了！美菲军演提前结束，两艘中国815A围着演习转", "url": "https://www.163.com/dy/article/KRQBNON50556BYNE.html", "source": "网易", "credibility": "low"},
+        {"title": "巴基斯坦海军将获得中国先进潜艇", "url": "https://amp.dw.com/zh/巴基斯坦海军将获得中国先进潜艇/a-77000595", "source": "德国之声", "credibility": "medium"},
+        {"title": "国防部新闻发言人就近期涉军问题发布消息并答记者问", "url": "http://military.people.com.cn/n1/2026/0501/c1011-40712480.html", "source": "人民网/国防部", "credibility": "high"},
+        {"title": "【军事情报局】伊朗还能撑多久？川普宣布无期限封锁伊朗", "url": "https://www.ntdtv.com/gb/2026/04/30/a104092014.html", "source": "新唐人", "credibility": "low"},
+        {"title": "中国代表：要防止朝鲜半岛生战生乱", "url": "https://news.cctv.com/2026/05/01/ARTIlNqqIHTfk43qAZ8VHHDE260501.shtml", "source": "央视/新华网", "credibility": "high"},
+        {"title": "智库：中共助伊朗政权续命 利用其牵制美国", "url": "https://www.epochtimes.com/gb/26/5/1/n14754272.htm", "source": "大纪元", "credibility": "low"}
+      ]
+    },
+    "politics_en": {
+      "query": "major political diplomatic events news today May 2026",
+      "results": [
+        {"title": "Global Developments on May 1, 2026", "url": "https://everythingbriefing.substack.com/p/may-1-2026", "source": "Everything Briefing", "credibility": "medium"},
+        {"title": "Zelenskyy says he's seeking details of Putin's May 9 ceasefire proposal", "url": "https://www.wunc.org/2026-05-01/zelenskyy-says-hes-seeking-details-of-putins-may-9-ceasefire-proposal", "source": "NPR", "credibility": "high"},
+        {"title": "Demonstration Alert: US Consulate General Florence, Italy (May 01, 2026)", "url": "https://it.usembassy.gov/demonstration-alert-u-s-consulate-general-florence-italy-may-01-2026/", "source": "US Embassy", "credibility": "high"},
+        {"title": "Rethinking North Korea diplomacy | Brookings", "url": "https://www.brookings.edu/articles/rethinking-north-korea-diplomacy/", "source": "Brookings", "credibility": "medium"},
+        {"title": "Why people are protesting today in NJ and NYC May Day 2026 rallies", "url": "https://www.northjersey.com/story/news/2026/05/01/why-people-are-protesting-today-nj-nyc-may-day-2026/89871936007/", "source": "USA Today", "credibility": "medium"},
+        {"title": "Iran war live: Tehran says US ports siege 'intolerable'; Trump mulls action", "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action", "source": "Al Jazeera", "credibility": "medium"},
+        {"title": "Putin's parade once projected power. Now it reveals Russia's weakness", "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/putins-parade-once-projected-power-now-is-reveals-russias-weakness/", "source": "Atlantic Council", "credibility": "medium"},
+        {"title": "US embassy warns Americans in the Philippines after deadly rebel clashes", "url": "https://www.stripes.com/theaters/asia_pacific/2026-05-01/embassy-address-manila-philippines-21544403.html", "source": "Stars and Stripes", "credibility": "medium"}
+      ]
+    },
+    "politics_cn": {
+      "query": "国际政治 外交 要闻 2026年5月",
+      "results": [
+        {"title": "外交部新闻（2026年5月1日）", "url": "https://finance.sina.com.cn/wm/2026-05-01/doc-inhwkpti0609276.shtml", "source": "外交部/新浪", "credibility": "high"},
+        {"title": "何立峰会见比利时副首相兼外交大臣普雷沃", "url": "https://www.chinanews.com.cn/gn/2026/05-01/10614283.shtml", "source": "中新社", "credibility": "high"},
+        {"title": "2026年4月30日外交部发言人林剑主持例行记者会", "url": "https://us.china-embassy.gov.cn/chn/lcbt/wjbfyrbt/202604/t20260430_11903286.htm", "source": "中国驻美使馆", "credibility": "high"},
+        {"title": "2026年5月1日新闻早知道", "url": "https://nginx-sxrb.app.sxrbw.com/sxrb/site1/mweb/ja9kl/c2119342.html", "source": "山西日报", "credibility": "medium"},
+        {"title": "美国展示'更加统一'的战线，中国在拉美从扩张转向防守？", "url": "https://www.voachinese.com/a/8145122.html", "source": "VOA", "credibility": "medium"},
+        {"title": "新浪财经隔夜要闻大事汇总：2026年5月1日", "url": "https://finance.sina.cn/headline/2026-05-01/detail-inhwiwvn5704939.d.html", "source": "新浪财经", "credibility": "medium"},
+        {"title": "王毅同美国国务卿鲁比奥通电话", "url": "http://politics.people.com.cn/n1/2026/0501/c1001-40712419.html", "source": "新华社/人民网", "credibility": "high"},
+        {"title": "联合国：朝鲜推进核导与导弹计划令人关切", "url": "https://news.un.org/zh/story/2026/04/1142055", "source": "联合国新闻", "credibility": "high"}
+      ]
+    },
+    "economy_en": {
+      "query": "major economic events trade markets today May 2026",
+      "results": [
+        {"title": "Weekly Market Update 01-05-2026", "url": "https://www.amp.com.au/resources/insights-hub/weekly-market-update-01-05-2026", "source": "AMP", "credibility": "medium"},
+        {"title": "Market Quick Take - 1 May 2026", "url": "https://www.home.saxo/content/articles/macro/market-quick-take---1-may-2026-01052026", "source": "Saxo Bank", "credibility": "medium"},
+        {"title": "World shares are mixed with most markets closed for May Day, while oil holds steady at $111", "url": "https://www.ksat.com/business/2026/05/01/asian-shares-gain-with-most-markets-closed-for-may-day-while-oil-holds-steady-at-111-a-barrel/", "source": "AP", "credibility": "high"},
+        {"title": "CNBC Daily Open: May Day dawns", "url": "https://www.cnbc.com/2026/05/01/cnbc-daily-open-may-day-dawns.html", "source": "CNBC", "credibility": "high"},
+        {"title": "It was another wild month for markets. Here's what it means for you", "url": "https://www.cnn.com/2026/05/01/business/us-stocks-bonds-oil", "source": "CNN", "credibility": "high"},
+        {"title": "Stock Market Today (May 1, 2026): S&P edges higher", "url": "https://www.thestreet.com/latest-news/stock-market-today-may-1-2026-updates", "source": "TheStreet", "credibility": "medium"}
+      ]
+    },
+    "economy_cn": {
+      "query": "全球经济 贸易 金融 要闻 2026年5月",
+      "results": [
+        {"title": "中国假日经济热力'暖'全球", "url": "https://www.chinanews.com.cn/cj/2026/05-01/10614143.shtml", "source": "中新社", "credibility": "high"},
+        {"title": "早报|标普创2000年来最大月涨幅;易会满被双开;何立峰与美财长通话", "url": "https://news.mbalib.com/story/258678", "source": "MBA智库", "credibility": "medium"},
+        {"title": "八年，鲍威尔谢幕，'下次不再见'！", "url": "https://www.chineseherald.co.nz/news/property/powell-term-ends-may/", "source": "新西兰中文先驱网", "credibility": "medium"},
+        {"title": "华许盼Fed会议更「混乱」分歧升温恐如其所愿", "url": "https://news.cnyes.com/news/id/6439537", "source": "钜亨网", "credibility": "medium"},
+        {"title": "美中经贸高层通话为川习会铺路 互提贸易政策不满", "url": "https://money.udn.com/money/story/5599/9475777", "source": "经济日报/路透", "credibility": "high"},
+        {"title": "经济热点快评｜阿联酋'退群'影响几何？", "url": "http://finance.people.com.cn/n1/2026/0501/c1004-40712583.html", "source": "人民网", "credibility": "high"}
+      ]
+    }
+  }
+}

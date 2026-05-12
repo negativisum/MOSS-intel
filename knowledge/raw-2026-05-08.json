@@ -1,0 +1,225 @@
+{
+  "date": "2026-05-08",
+  "collection_time": "2026-05-08 21:54 CST",
+  "sources": ["NYT", "Reuters", "CNBC", "BBC", "The Guardian", "Al Jazeera", "Xinhua", "Sputnik", "Sina Finance", "Trading Economics", "Investopedia", "Bloomberg", "Asia Times", "FPRI"],
+  "sections": {
+    "military": {
+      "us_iran": [
+        {
+          "title": "US launches airstrikes on Iran's Gheshm port and Bandar Abbas on May 7",
+          "source": "Xinhua via Fox News",
+          "summary": "US airstrikes on Iran's Gheshm port and Bandar Abbas. US official: 'neither war restart nor ceasefire end.' Iran says Strait of Hormuz situation returned to 'normal' after hours of exchange."
+        },
+        {
+          "title": "US and Iran Exchange Fire Amid a Declared Truce",
+          "source": "NYT (Updated May 8)",
+          "summary": "US struck Iranian military targets after Iran fired on US warships in Strait of Hormuz. Trump threatens more if no deal. Iran says 14-point proposal 'under consideration.'"
+        },
+        {
+          "title": "Trump: ceasefire still in effect despite exchanges",
+          "source": "Reuters/Guardian",
+          "summary": "Trump describes US strikes as a 'love tap,' says negotiations continuing. Iran accuses US of violating truce. Reuters reports US and Iran may be close to a temporary 3-phase deal: end war, resolve Hormuz crisis, then 30-day negotiation window."
+        },
+        {
+          "title": "Iran parliamentarian: Tehran pessimistic about talks",
+          "source": "Sputnik",
+          "summary": "Iran parliamentary member Maleki says Tehran is pessimistic about negotiations to end conflict with US."
+        }
+      ],
+      "russia_ukraine": [
+        {
+          "title": "Russia ramps up threats toward Ukraine over Victory Day",
+          "source": "NYT (May 7)",
+          "summary": "Russia warns of 'inevitable retaliatory strike' if Ukraine disrupts May 9 Victory Day parade. Zelensky hints at disruption."
+        },
+        {
+          "title": "Russia Victory Day: no tanks on Red Square for first time in 2 decades",
+          "source": "BBC",
+          "summary": "Scaling back parade signals Ukraine war not going to plan. Moscow fears Ukrainian long-range strikes."
+        },
+        {
+          "title": "Many Russians in No Mood for Celebration",
+          "source": "NYT (May 8)",
+          "summary": "Economy stalling, internet restrictions growing, Kremlin fearing Ukrainian attacks. Russian mood subdued ahead of Victory Day."
+        },
+        {
+          "title": "Russia and Ukraine trade fire despite Victory Day ceasefire",
+          "source": "Al Jazeera (May 8)",
+          "summary": "Both sides accuse each other of violating truce. Zelensky: Moscow wants pause 'to hold their parade, then continue killing.'"
+        }
+      ],
+      "taiwan_strait": [
+        {
+          "title": "Taiwan Legislature Passes $25B Special Defense Budget for US Arms",
+          "source": "NYT (May 8, updated)",
+          "summary": "Taiwan's opposition-dominated legislature approved NTD 780 billion ($24.8B) special defense budget for US weapons, ending political deadlock ahead of Trump-Xi summit. KMT/TPP 59 votes in favor, DPP 48 abstained. Largest defense budget in Taiwan's history, though less than government's proposed NTD 1.25T ($40B). NTD 300B for already-approved US arms, NTD 480B for future purchases once LOA provided."
+        },
+        {
+          "title": "Taiwan submarine conducts maiden torpedo test",
+          "source": "Reuters (May 7)",
+          "summary": "Taiwan's first domestically developed submarine completed maiden torpedo test firing."
+        },
+        {
+          "title": "Xi's patient Taiwan reunification strategy",
+          "source": "Intelligence Online (May 7)",
+          "summary": "Without rushing or setting deadline, Beijing preparing for Taiwan reunification with military exercises, visa policy relaxation, political maneuvering, and economic pressure."
+        }
+      ]
+    },
+    "politics": {
+      "trump_xi_summit": [
+        {
+          "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+          "source": "CNBC (May 8)",
+          "summary": "Iran war likely to take center stage in May 14-15 summit, leaving less scope for tariffs and rare earths issues. US Treasury Secretary Bessent confirms Iran will be discussed."
+        },
+        {
+          "title": "Trump to bring CEOs to China: NVIDIA, Apple, ExxonMobil, Boeing, Citi, Qualcomm, Blackstone, Visa",
+          "source": "Semafor via Sputnik (May 8)",
+          "summary": "Trump plans to invite major US business leaders to accompany him to Beijing. Boeing expected to seal first large aircraft order from China in nearly a decade. US declined China's invite for industry-specific meetings with senior Chinese leaders."
+        },
+        {
+          "title": "Trump-Xi summit stays on track despite China's Iran concerns",
+          "source": "Bloomberg (May 7)",
+          "summary": "Trump forging ahead with Beijing summit despite Chinese unease about holding high-stakes meeting before Iran war resolved."
+        },
+        {
+          "title": "What's at stake at the Trump-Xi summit",
+          "source": "Reuters (May 7)",
+          "summary": "Key issues: Iran oil, Taiwan, trade, tariffs, technology controls, rare earths. No big breakthroughs expected but potential extension of October trade truce."
+        }
+      ],
+      "china_diplomacy": [
+        {
+          "title": "China to veto UN Security Council resolution if it targets Iran",
+          "source": "Xinhua (May 8)",
+          "summary": "China's UN representative indicates China would veto any resolution targeting Iran, consistent with its role as Security Council president."
+        },
+        {
+          "title": "China-Russia Victory Day commemoration in Dalian",
+          "source": "Sputnik (May 8)",
+          "summary": "81st anniversary of Great Patriotic War victory commemorated at Lushun Soviet Martyrs Cemetery in Dalian."
+        },
+        {
+          "title": "Brazil announces visa-free for Chinese citizens starting May 11",
+          "source": "Xinhua (May 7)",
+          "summary": "Up to 30 days per entry, short-term visa-free travel for Chinese passport holders."
+        }
+      ],
+      "us_domestic": [
+        {
+          "title": "US International Trade Court declares 10% global tariff illegal",
+          "source": "Xinhua (May 7)",
+          "summary": "Second tariff tool invalidated. Supreme Court had already ruled IEEPA tariffs illegal in February. Trump had turned to Section 122 of Trade Act of 1974, which was also struck down."
+        },
+        {
+          "title": "Trump meets Brazil's President Lula at White House",
+          "source": "Xinhua (May 7)",
+          "summary": "Discussed trade, tariffs. Trump called meeting 'very smooth.'"
+        }
+      ],
+      "middle_east": [
+        {
+          "title": "Israel-Lebanon 3rd round of talks to be held in Washington May 14-15",
+          "source": "Xinhua (May 7)",
+          "summary": "Israeli official confirms talks with Lebanon to resume in Washington, same days as Trump-Xi summit in Beijing."
+        },
+        {
+          "title": "US announces new sanctions on Iran and Cuba",
+          "source": "Xinhua (May 7)",
+          "summary": "US Treasury published new sanctions on Iran and Cuba."
+        }
+      ]
+    },
+    "economy_and_finance": {
+      "markets": [
+        {
+          "title": "S&P 500 pulls back from record, closes at 7,328 (-0.50%) on May 7",
+          "source": "Trading Economics",
+          "summary": "Index lost 0.50% to 7,328 on May 7, after hitting record 7,365 on May 6. Dow at 49,596.97 (pulling back from 50,002 high). Nasdaq at 25,970.96 (+0.51%)."
+        },
+        {
+          "title": "Oil jumps over 2% to $96.8/bbl on renewed US-Iran hostilities",
+          "source": "ts2.tech (May 7)",
+          "summary": "Oil prices reversed weekly decline, jumping over 2% to $96.8/bbl as US-Iran exchange of fire continued despite declared truce."
+        },
+        {
+          "title": "Gold edges down 0.08% on May 7",
+          "source": "ts2.tech",
+          "summary": "Gold slightly lower. 10Y Treasury yield at 4.38%, pressured by oil price movements and geopolitical risks."
+        },
+        {
+          "title": "S&P 500 and Nasdaq hit records on May 6 - Dow +650 points",
+          "source": "CNBC/Investopedia",
+          "summary": "May 6: Dow +612 pts to 49,910.59. S&P 500 +1.46% to 7,365 (record close). Nasdaq +2.02% to 25,838.94 (record). Oil dived 7%+ on MOU optimism. 10Y yield dropped to 4.35%. Gold +3% to $4,708."
+        }
+      ],
+      "china_economy": [
+        {
+          "title": "China April forex reserves back above $3.4 trillion",
+          "source": "Xinhua/Sina (May 7)",
+          "summary": "April forex reserves at $3,410.5B, +$68.4B (+2.05%) from March. 9th consecutive month above $3.3T. 10-year high level."
+        },
+        {
+          "title": "PBOC 18th consecutive month of gold purchases",
+          "source": "Xinhua (May 7)",
+          "summary": "April gold reserves at 74.64 million ounces, 18th consecutive month of increases."
+        },
+        {
+          "title": "\"Beautiful China\" assessment measures issued by CPC Central Committee and State Council",
+          "source": "Xinhua (May 7)",
+          "summary": "Five dimensions: responsibility implementation, annual targets, key tasks, fund performance, public satisfaction. Results linked to cadre evaluation and fiscal allocation."
+        },
+        {
+          "title": "China rejects EU designation as 'high-risk country' for inverter ban",
+          "source": "Xinhua (May 7)",
+          "summary": "Ministry of Commerce: EU banned funding for projects using Chinese inverters, labeling China as 'high-risk.' China firmly opposes."
+        },
+        {
+          "title": "Hong Kong Exchange to relaunch gold futures trading",
+          "source": "Xinhua (May 7)",
+          "summary": "4th attempt since 1980. Previous three attempts failed due to low volume and insufficient liquidity."
+        },
+        {
+          "title": "May Day holiday: 325M domestic trips, +3.6% YoY; spending 185.5B yuan, +2.9% YoY",
+          "source": "Xinhua (May 7)",
+          "summary": "Tourism recovery continues but spending per capita soft."
+        }
+      ],
+      "global_debt": [
+        {
+          "title": "IIF: Global debt reaches $352.8 trillion - Q1 alone +$4.4 trillion",
+          "source": "IIF via memory/2026-05-07",
+          "summary": "Global debt at all-time high. US government borrowing is primary driver. US debt demand 'stagnating.' Headline: 'Storm Coming: Debt Market Hanging on the Edge.'"
+        }
+      ]
+    }
+  },
+  "events_to_watch": [
+    {
+      "event": "Russia Victory Day Parade (May 9)",
+      "significance": "HIGH",
+      "notes": "No tanks on Red Square for first time in 2 decades. Russia threatens retaliation if Ukraine disrupts. Zelensky hints at disruption."
+    },
+    {
+      "event": "Iran response to US 14-point proposal (ongoing)",
+      "significance": "EXTREME",
+      "notes": "Iran parliamentarian pessimistic. US-Iran still exchanging fire despite 'truce.' Possible 3-phase temporary deal: end war → Hormuz → 30-day negotiation. Trump threatens escalation if no deal."
+    },
+    {
+      "event": "Trump-Xi Summit, Beijing (May 14-15)",
+      "significance": "EXTREME",
+      "notes": "Iran expected to dominate agenda over tariffs/trade. Trump bringing senior US CEOs. Boeing may finalize major China order. Israel-Lebanon talks also scheduled same days in Washington."
+    },
+    {
+      "event": "Taiwan $25B Arms Deal - China reaction (ongoing)",
+      "significance": "HIGH",
+      "notes": "Largest defense budget in Taiwan's history passed ahead of Trump-Xi summit. China reaction expected to be severe. NTD 300B for already-approved US arms + NTD 480B for future purchases."
+    },
+    {
+      "event": "US tariff legal crisis",
+      "significance": "HIGH",
+      "notes": "Supreme Court killed IEEPA tariffs (Feb). Now Section 122 tariffs also struck down (May 7). Trump running out of legal tools for tariff policy."
+    }
+  ]
+}

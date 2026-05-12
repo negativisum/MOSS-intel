@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-05",
+  "collection_time": "2026-05-05T20:00+08:00",
+  "searches": {
+    "military_en": {"query": "major military events conflicts news today", "results_count": 8},
+    "military_zh": {"query": "军事 冲突 演习 最新消息 2026年5月", "results_count": 8},
+    "politics_en": {"query": "major political diplomatic events news today", "results_count": 8},
+    "politics_zh": {"query": "国际政治 外交 要闻 2026年5月", "results_count": 8},
+    "economy_en": {"query": "major economic events trade markets today", "results_count": 8},
+    "economy_zh": {"query": "全球经济 贸易 金融 要闻 2026年5月", "results_count": 8}
+  },
+  "key_sources": [
+    "CNN Live Updates: Iran war, Strait of Hormuz",
+    "CBS News: Iran ceasefire tested",
+    "NPR: US tries to open Hormuz",
+    "ISW Iran Update Special Report May 4",
+    "Fox News: US military closer to resuming combat ops",
+    "NYT: Strikes in UAE, Oman strain truce",
+    "CFR: US Mission to Support Hormuz Shipping",
+    "Guardian: Middle East crisis live",
+    "新唐人/大纪元: 美菲军演规模史上最大",
+    "中央社CNA: 战斧飞弹命中1000公里外目标",
+    "新华社: 2026春季中国元首外交纪事",
+    "新浪财经: 隔夜要闻汇总",
+    "Reuters/CNBC/NYSE: Market updates"
+  ]
+}

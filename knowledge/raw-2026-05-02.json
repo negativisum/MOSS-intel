@@ -1,0 +1,122 @@
+{
+  "date": "2026-05-02",
+  "collection_time": "2026-05-02T20:08 CST",
+  "source": "MetaSo Search (秘塔AI搜索)",
+  "method": "metaso_web_search × 6 queries (EN/CN military, politics, economy)",
+  "queries": {
+    "military_en": "major military conflicts events news today May 2026",
+    "military_cn": "军事 冲突 演习 最新 要闻 2026年5月",
+    "politics_en": "international political diplomatic events news today May 2026",
+    "politics_cn": "国际政治 外交 要闻 2026年5月",
+    "economy_en": "global economy trade markets finance news today May 2026",
+    "economy_cn": "全球经济 贸易 金融 能源 要闻 2026年5月"
+  },
+  "key_findings": {
+    "military": [
+      {
+        "title": "伊朗外长愿与美国外交对话，但军方称冲突可能性大",
+        "source": "搜狐财经TOP10 2026-05-02",
+        "date": "2026-05-02",
+        "credibility": "medium",
+        "summary": "伊朗外长阿拉格齐表示愿意与美国进行外交对话，和平解决冲突。但伊朗高级军事官员认为冲突可能性仍然很大。特朗普称美国海军对伊朗港口实施海上封锁'像海盗一样'，并表示不会寻求国会批准对伊军事行动。"
+      },
+      {
+        "title": "卡塔尔宣布全面恢复海上航运",
+        "source": "搜狐财经TOP10 2026-05-02",
+        "date": "2026-05-02",
+        "credibility": "medium",
+        "summary": "卡塔尔宣布全面恢复海上航运，是霍尔木兹海峡危机以来首个宣布恢复航运的波斯湾国家——信号意义重大。"
+      },
+      {
+        "title": "七国'肩并肩-2026'联合军演持续至5月8日",
+        "source": "多信源",
+        "date": "2026-04-20至05-08",
+        "credibility": "high",
+        "summary": "美菲主导的7国联合军演从4月20日持续至5月8日，实战性极强，含夺岛、反舰导弹实弹射击、海上联合封锁等科目。中国辽宁舰编队在南海保持战备状态，国防部多次表态反对。"
+      },
+      {
+        "title": "法国与亚美尼亚签署防务合作协议",
+        "source": "俄罗斯卫星通讯社 2026-05-01",
+        "date": "2026-05-01",
+        "credibility": "high",
+        "summary": "法国与亚美尼亚签署防务合作协议，法在高加索地区军事影响力扩大。"
+      }
+    ],
+    "politics": [
+      {
+        "title": "联合国秘书长警告中东危机外溢冲击全球经济",
+        "source": "UN News 2026-05-01",
+        "date": "2026-05-01",
+        "credibility": "high",
+        "summary": "古特雷斯呼吁立即恢复霍尔木兹海峡航行自由。《不扩散核武器条约》审议大会开幕，警告核威胁升级。副秘书长警告朝鲜继续推进核导计划。"
+      },
+      {
+        "title": "德国前外长称北约正在瓦解，欧盟应自主安全",
+        "source": "俄罗斯卫星通讯社 2026-05-01",
+        "date": "2026-05-01",
+        "credibility": "medium",
+        "summary": "德国前外长明确表示'北约正在瓦解'，呼吁欧盟建立自主安全体系。与德国总理默茨此前批评美国'无战略'一脉相承。"
+      },
+      {
+        "title": "特朗普称美伊敌对行动已满60天法定期限",
+        "source": "搜狐财经TOP10 2026-05-02",
+        "date": "2026-05-02",
+        "credibility": "medium",
+        "summary": "特朗普声称60天战争权力法期限已过，敌对行动终止，暗示不会寻求国会新授权。此法律策略面临民主党批评但共和党支持。"
+      },
+      {
+        "title": "伊朗最高领袖哈梅内伊：需推动'经济抗争'",
+        "source": "搜狐财经TOP10 2026-05-02",
+        "date": "2026-05-02",
+        "credibility": "medium",
+        "summary": "伊朗最高领袖称需推动经济抗争，表明伊朗准备长期承受封锁压力，40%贸易转向陆路运输（国际南北运输走廊）。"
+      }
+    ],
+    "economy": [
+      {
+        "title": "特朗普称美国不会离开霍尔木兹海峡",
+        "source": "搜狐财经TOP10 2026-05-02",
+        "date": "2026-05-02",
+        "credibility": "medium",
+        "summary": "特朗普明确拒绝离开霍尔木兹海峡，暗示封锁可能长期化。布伦特原油$111.23/桶，仍在高位。" 
+      },
+      {
+        "title": "英国对美出口下降25%",
+        "source": "俄罗斯卫星通讯社 2026-05-01",
+        "date": "2026-05-01",
+        "credibility": "medium",
+        "summary": "因特朗普关税政策，英国对美出口下降25%。美英贸易关系紧张。"
+      },
+      {
+        "title": "阿联酋正式退出OPEC（5月1日生效）",
+        "source": "多信源",
+        "date": "2026-05-01",
+        "credibility": "high",
+        "summary": "OPEC第三大产油国正式退出，60年成员身份终结。分析称短期影响有限（海峡封锁是核心因素），中长期推动油价下行、弱化OPEC话语权10-15%。"
+      },
+      {
+        "title": "日本银行贷7.41亿美元助美项目",
+        "source": "俄罗斯卫星通讯社 2026-05-01",
+        "date": "2026-05-01",
+        "credibility": "medium",
+        "summary": "日本银行向美国项目提供7.41亿美元贷款——可能涉及对美投资承诺中的部分。"
+      },
+      {
+        "title": "美股上涨，Meta收购机器人公司",
+        "source": "搜狐财经TOP10 2026-05-02",
+        "date": "2026-05-02",
+        "credibility": "medium",
+        "summary": "美股上涨，Meta收购机器人公司，甲骨文加入AI公司名单。市场情绪受中东停火预期提振。"
+      },
+      {
+        "title": "美国在稀土市场对中国无筹码",
+        "source": "俄罗斯卫星通讯社 2026-05-01",
+        "date": "2026-05-01",
+        "credibility": "medium",
+        "summary": "专家分析称美国在稀土市场对中国'无筹码'——中国控制全球60%稀土开采和90%加工。"
+      }
+    ]
+  },
+  "credits_used": 18,
+  "note": "Tavily API key失效，改用MetaSo搜索。Brave Search不可用。部分结果日期较早，已筛选5月1-2日内容。"
+}

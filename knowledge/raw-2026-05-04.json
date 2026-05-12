@@ -1,0 +1,14 @@
+{
+  "date": "2026-05-04",
+  "collection_time": "2026-05-04T20:08:00+08:00",
+  "source": "Tavily API",
+  "searches": {
+    "military_en": {"query": "major military events conflicts news today", "results": 8},
+    "military_cn": {"query": "军事 冲突 演习 最新消息", "results": 8},
+    "politics_en": {"query": "major political diplomatic events news today", "results": 8},
+    "politics_cn": {"query": "国际政治 外交 要闻", "results": 8},
+    "economy_en": {"query": "major economic events trade markets today", "results": 8},
+    "economy_cn": {"query": "全球经济 贸易 金融 要闻", "results": 8}
+  },
+  "summary": "May 4, 2026 intelligence collection - Major developments in Hormuz Strait, US-Iran negotiations, US-Europe trade tensions, and global markets"
+}

@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-30",
+  "collected_at": "2026-04-30T20:04:00+08:00",
+  "searches": {
+    "military_en": {
+      "query": "major military events conflicts news today",
+      "results": [
+        {"title": "BBC visits US and UK military base in Iraq as ceasefire continues", "source": "BBC", "credibility": "high"},
+        {"title": "Iran war has cost the U.S. $25 billion after eight weeks", "source": "NBC News", "credibility": "high"},
+        {"title": "Trump considers military options against Iran", "source": "Fox News", "credibility": "medium"},
+        {"title": "Hegseth, Khanna clash over Iran war", "source": "Fox News", "credibility": "medium"},
+        {"title": "Sen. Kennedy declares victory in Iran", "source": "Fox News", "credibility": "medium"}
+      ]
+    },
+    "military_cn": {
+      "query": "军事 冲突 演习 最新消息",
+      "results": [
+        {"title": "美菲军演提前结束，两艘中国815A围着演习转", "source": "网易", "credibility": "medium"},
+        {"title": "24国要南海军演？解放军实弹演训！", "source": "网易", "credibility": "medium"},
+        {"title": "国防部：有关国家不要忘记日本侵略的历史惨痛教训", "source": "新华网", "credibility": "high"},
+        {"title": "美国防部申请改名为'战争部'", "source": "北京日报", "credibility": "medium"},
+        {"title": "台海两岸 - 台湾仔细'观战' 研发'自产'利器", "source": "DW", "credibility": "medium"}
+      ]
+    },
+    "politics_en": {
+      "query": "major political diplomatic events news today",
+      "results": [
+        {"title": "Trump hosts King Charles III at White House", "source": "The Guardian", "credibility": "high"},
+        {"title": "5 things to know for April 30: Iran war, gun control, visa applicants", "source": "CNN", "credibility": "high"},
+        {"title": "Thursday morning news: April 30, 2026", "source": "WORLD Radio", "credibility": "medium"},
+        {"title": "Could the US-Iran war become a protracted 'frozen' conflict?", "source": "Al Jazeera", "credibility": "high"},
+        {"title": "Iran-US war latest: Tehran threatens US", "source": "The Independent", "credibility": "high"}
+      ]
+    },
+    "politics_cn": {
+      "query": "国际政治 外交 要闻",
+      "results": [
+        {"title": "王毅会见第80届联合国大会主席贝尔伯克", "source": "人民日报", "credibility": "high"},
+        {"title": "王毅同澳大利亚外长黄英贤举行中澳外交与战略对话", "source": "新华社", "credibility": "high"},
+        {"title": "韩正分别会见联合国大会主席、澳大利亚外长", "source": "新华社", "credibility": "high"},
+        {"title": "美众议院研议推新法案紧盯中国科技发展", "source": "非凡新闻", "credibility": "medium"},
+        {"title": "美国国务院新规：签证申请人需确认不恐惧迫害", "source": "世界新闻网", "credibility": "medium"}
+      ]
+    },
+    "economy_en": {
+      "query": "major economic events trade markets today",
+      "results": [
+        {"title": "Economic Events April 30: US GDP, PCE, ECB, BoE, Apple earnings", "source": "SergeyTereshkin", "credibility": "medium"},
+        {"title": "FOMC holds rates steady; Powell's final press conference", "source": "Federal Reserve", "credibility": "high"},
+        {"title": "Stagflation risks stacking up as Iran war enters third month", "source": "Reuters", "credibility": "high"},
+        {"title": "Israel's economy and financial markets are booming despite Iran war", "source": "CNBC", "credibility": "high"},
+        {"title": "Oil surges above $126, highest in 4 years", "source": "CNN", "credibility": "high"}
+      ]
+    },
+    "economy_cn": {
+      "query": "全球经济 贸易 金融 要闻",
+      "results": [
+        {"title": "PCB关键原料飙涨 全球供应链大乱", "source": "世界新闻网", "credibility": "medium"},
+        {"title": "高盛、花旗调高油价预估 上看150美元", "source": "世界新闻网", "credibility": "medium"},
+        {"title": "伊朗传让步提出解封荷莫兹海峡新方案", "source": "世界新闻网", "credibility": "medium"},
+        {"title": "S&P Global：今年全球经济成长率2.4%", "source": "MoneyDJ", "credibility": "high"},
+        {"title": "中国对非洲建交国全面实施零关税", "source": "新华网", "credibility": "high"}
+      ]
+    }
+  }
+}

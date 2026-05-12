@@ -1,0 +1,41 @@
+{
+  "date": "2026-05-10",
+  "collection_time": "2026-05-10 20:03 CST",
+  "sources": {
+    "metaso_military_cn": "全球军事动态 最新",
+    "metaso_politics_cn": "全球政治外交 最新要闻",
+    "metaso_economy_cn": "全球经济金融市场 最新动态 美联储 美股 原油 黄金 美债",
+    "tavily_military_en": "global military news latest May 2026",
+    "tavily_politics_en": "global politics diplomacy news May 10 2026",
+    "tavily_finance_en": "global financial markets stock oil gold treasury yields central bank May 2026",
+    "metaso_iran_cn": "伊朗战争 最新进展 霍尔木兹海峡 2026年5月",
+    "metaso_trump_china_cn": "特朗普访华 习近平 中美峰会 2026年5月",
+    "metaso_markets_cn": "A股 港股 美股 黄金 原油 人民币汇率 最新行情 2026年5月",
+    "metaso_debt_cn": "全球债务 美债危机 央行政策 利率 2026年5月"
+  },
+  "key_findings": [
+    "Iran war Day 72: ceasefire negotiations ongoing, Iran yet to reply to US proposal",
+    "Iran warns Strait of Hormuz sanctions enforcers will 'face problems'",
+    "US Navy F/A-18 hits Iranian tankers Sevda and Sea Star III",
+    "Russia sending drone components to Iran via Caspian Sea for rebuild",
+    "China companies sanctioned for providing satellite imagery to Iran during war",
+    "Israel bombs Lebanon despite ceasefire; Hezbollah claims 22 attacks on Israeli forces",
+    "Trump-Xi summit Beijing May 14-15: oil diplomacy dominates agenda",
+    "China banned companies from complying with US Iran sanctions; built world's largest crude stockpiles",
+    "Russia-Ukraine: Russian forces given May 30 deadline to reach Kramatorsk outskirts",
+    "Ukraine deploys AI-guided drone countermeasure systems",
+    "Germany evaluating Tomahawk missile acquisition, defense spending rising",
+    "Gold ~$4,700-4,770/oz in correction within long-term bull market",
+    "WTI crude surged past $106/barrel from Iran war",
+    "2-year Treasury ~3.88-3.92%; 10-year ~4.4%",
+    "Fed rate cuts off table until well into 2027 due to oil-induced inflation",
+    "S&P 500 Shiller P/E at 41.83 near dot-com bubble levels",
+    "US national debt ~$39 trillion, annual interest ~$1.23 trillion",
+    "~$10 trillion US debt needs refinancing in 2026 at much higher rates",
+    "USD/CNY ~6.83; USD trending UP creating headwind for gold",
+    "Central banks bought 244 tonnes gold in Q1 2026",
+    "Consumer sentiment at fresh record low in US",
+    "China promoting intelligent military system (智能化军事体系)",
+    "PLA exercises with Egypt, Cambodia, Pakistan, SCO members"
+  ]
+}

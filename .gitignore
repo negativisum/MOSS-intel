@@ -1,0 +1,13 @@
+# MOSS Knowledge Base - Git Ignore
+
+# System files
+.DS_Store
+
+# Skills (managed separately)
+skills/
+*.skilllier
+
+# Temporary/transientty
+*.tmp
+*.swp
+*~
